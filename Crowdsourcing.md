@@ -1,0 +1,49 @@
+> **I not only use all the brains that I have, but all that I can borrow.**<br />
+> \- _Woodrow Wilson_
+
+The creation, maintenance and future development of openMediAid is a crowd-sourced process, in other words it is the responsibility of all people who collaborate in the project. openMediAid is not a project of a single person, not even a few hundred. As the target audience includes millions of people, openMediAid's success will be based on the participation of a large and diverse group of volunteers.
+
+## But what is crowdsourcing?
+[Crowdsourcing](http://en.wikipedia.org/wiki/Crowdsourcing) is a combination of the words *crowd* and *outsourcing*. 
+The crowd is an organized group of people who share collective goals and have a set of possible actions to achieve those goals. It may emerge spontaneously and exist for an unknown amount of time. It is much like a fluid social organism that has no definitive shape because participation is open and people may join and leave the crowd while it exists. The crowd is also a continuous potential that always exists inherent to large groups of people.
+
+> **Crowdsourcing is an online, distributed problem-solving and production model.**<br />  
+> \- _Daren C. Brabham, [Crowdsourcing as a Model for Problem Solving](http://content.lib.utah.edu/utils/getfile/collection/etd2/id/1190/filename/419.pdf)_
+
+> **Crowdsourcing is a disciplined online process where people who have a common interest or affiliation (such as no-profit employees or followers ) collaborate in an organized and positive way towards accomplishing specific objectives.**<br /> 
+> \- _goodcrowds.com, [Why Non-Profits Should Use Crowdsourcing](http://goodcrowds.com/wp-content/uploads/2013/11/Why-Non-Profits-Should-Use-Crowdsourcing.pdf)_
+
+Like in any organization, complex problems are solved by division into smaller problems which are distributed to the organization members who coordinate their solution. This is a very common scheme that is used basically anywhere where groups of people act to achieve a shared goal. Crowdsourcing is a way of expanding the people involved to boost creativity and productivity alike.
+
+> **...under the right circumstances, groups are remarkably intelligent, and are often smarter than the smartest people in them’... wisdom of crowds is derived not from averaging solutions, but from aggregating them.**<br />
+> \- _Surowiecki, J. (2004) The Wisdom of Crowds_
+
+The crowd is diverse and contains experts of many areas with different cultural background, skills and motivations. For a single problem, many solutions will emerge and the coordinated result can be a combination of the most promising approaches.
+
+> **Crowdsourcing is channeling the experts’ desire to solve a problem and then freely sharing the answer with everyone.**<br />
+> \- _Henrik van Hess_
+
+In the public discourse on crowdsourcing exists a predominant view that it is the new challenge for companies to make use of the crowd to increase their competitiveness. Many articles produce excited reports of success stories about crowdsourced product innovation. It is written between the lines that crowdsourcing is a successful way for companies to good solutions for low prizes and at low risks. Even the Wikipedia article about crowdsourcing neglects to mention itself as a first class example of a crowdsourced service. Instead, the focus should shift and crowdsourcing should be understood and advocated as THE primary model for people to develop and run public services and infrastructure and create social innovation as a common good. The solutions of crowdsourced processes should be given back to the people. Even better, the people themselves should set crowdsourcing processes in motion in order to solve the problems of the masses.
+
+## Crowdsourcing success
+Crowdsourcing the process of solving difficult problems has successfully been done many times. One of the most known success stories is the online encyclopedia "Wikipedia". Other examples
++ http://helpfromhome.org/
++ http://fold.it/portal/
++ http://www.osdd.net/
+
+<a name="ehealth-success-stories"></a>
+## Crowdsourced health care
++ http://www.curetogether.com
++ http://curecrowd.com/
++ http://www.crowdmed.com
++ http://www.forbes.com/sites/matthewherper/2011/07/14/diagnosis-by-facebook-can-we-crowdsource-medicine/
++ http://social.eyeforpharma.com/epharma/can-we-crowdsource-medicine
++ http://crowdsourcing.typepad.com/cs/2008/08/can-we-crowds-1.html
+
+Further reading:
++ http://www.osdd.net/about-us/our-team/chief-mentor/message-from-chief-mentor
++ http://goodcrowds.com/blog
++ http://www.crowdsourcing.org
++ http://faculty.msb.edu/homak/homahelpsite/WebHelp%20061813/Wisdom_of_Crowds_-_Book_Summary.pdf
+
+

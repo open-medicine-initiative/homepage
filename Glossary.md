@@ -1,0 +1,33 @@
+<a name="diagnosis"></a>
+### Diagnosis
++ [Medical diagnosis](http://en.wikipedia.org/wiki/Medical_diagnosis)
++ [How a diagnosis works](http://www.dentalcomfortzone.com/story.php?aid=208)
+
+### Evidence-based medicine
+Medicine as a field of human biology is based on empirical evidence. In its theoretical foundation, that is clinical / pharmacological research, this is self-evident. In the field of applied medicine (the medical services that people consume), the principle of [evidence-based medicine](http://en.wikipedia.org/wiki/Evidence-based_medicine) suggests to use the same approach: base medical decision on empirical evidence. Unfortunately, much of the potentially useful data is not collected in structured models, such that algorithmic analysis is often very hard and information retrieval is a tedious task.
++ [EBM - Clinical practice guidelines](https://learn.amia.org/system/scidea/learning_resources/53/original/2B-1_Hoyt-Hersh__EBM__and_clinical_practice_guidelines.pdf)
+
+<a name="mdss"></a>
+### Medical Decision Support System
+A software system that uses different algorithmic approaches to support medical decision making processes. Medical Decision Support Systems (MDSS) are usually designed to be used by clinicians and other physicians and developed as commercial software. A crowd-sourced, open MDSS instead is developed and maintained by a large group of volunteers and its target audience are medical professionals and laymen alike.
+
+> **There is growing recognition that CDS, when well-designed and implemented, holds great potential to improve health care quality and possibly even increase efficiency and reduce health care costs.**
+
+> (_Berner ES.[Clinical Decision Support Systems:State of the Art](http://healthit.ahrq.gov/sites/default/files/docs/page/09-0069-EF_1.pdf)_)
+
++ [Wikipedia:Clinical Decision Support System](http://en.wikipedia.org/wiki/Clinical_decision_support_system)
++ [Recommendations for the Ethical Development and Use of Medical Decision-Support Systems ](http://www.medscape.com/viewarticle/408143)
++ [Clinical Decision Support Systems for the Practice of Evidence-based Medicine](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC130063/)
++ [OpenClinical:Clinical decision support systems](http://www.openclinical.org/dss.html)
+
+<a name="phr"></a>
+### Personal Health Record
+A personal health record is much like any electronic health record but is managed by its owner, ie. the patient her/himself. The advantage is that all relevant medical information are available to construct a clear image of the persons health situation. There is a very concise article about [maintaining your personal medical record](http://www.healthit.gov/patients-families/maintain-your-medical-record). Another source is the Wikipedia article on [Personal Health Record](http://en.wikipedia.org/wiki/Personal_health_record).
+
+
+### Symptom
+A symptom is an identifiable sign of a certain medical condition (headache, joint-pain, nausea, skin irritation, itching, swelling, high blood pressure, low levels of blood sugar or insulin etc). Symptoms are described using a variable set of dimensions depending on the type of symptom (Location in body, Quantity/Intensity/Extension, Frequency, Duration). A specific symptom will have a number of synonyms.
+[TODO: this misses out on the difference between symptoms and signs]
+
+### Prevalence
+Prevalence is a statistical concept referring to the number of cases of a disease that are present in a particular population at a given time, whereas incidence refers to the number of new cases that develop in a given period of time.
