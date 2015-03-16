@@ -1,0 +1,19 @@
+h1(#hall-of-fame). Hall of fame
+
+OpenMediAid would not be what it is without all the contributions made by great people and organizations. We want to appreciate their work and by showing the mosaik of contributions where each single piece matters.
+
+<a name="thank-you"></a>
+
+h2(#projects-tools-and-organizations...). Projects, tools and organizations...
+
+We are using great, free tools and open source software to accomplish our mission. We want to say thank you to the many people who donate their time to build them. We also received contributions from businesses wanting to support the project.
+
+!images/hallofame/github.png(Github)!!images/hallofame/octocat.jpg(Github)!
+We love Github because it promotes the idea of collaboration. Everybody can fork repositories to contribute code or even start her/his own project with it. Everything is accessible and open source right from the beginning. Thank you github!<br />
+
+!images/hallofame/trello.png(Trello)!
+Trello is a lean and clean solution for managing lists of information items on dashboard like screens. Dashboards can be public and unlimited users can collaborate. The basic account is free of charge - which is great. Thank you Trello!
+
+!images/hallofame/manitu.gif(manitu)!
+"manitu":www.manitu.de is a professional hosting provider based in Germany. They like to support non-profit projects and take social and ecological responsibility seriously. Manitu has donated a powerful root server to host the projects infrastructure. Thank you manitu!
+

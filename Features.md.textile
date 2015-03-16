@@ -1,0 +1,44 @@
+<a name="personal-medical-profile"></a>
+
+h2(#personal-medical-profile). Personal Medical Profile
+
+A most fundamental feature offered by openMediAid is the management of medical data in form of "medical profiles":Medical-Profiles. A medical profile is a container for health information that *describes a medical case*. It can be owned by a patient or a virtual agent of the system. It can be used in search queries for similar cases or other relevant medical information.
+
+For patients a medical profile is similar to a *"personal health record":Glossary#phr*: it describes their medical history and current situation in terms of symptoms, clinical findings, diagnosis and other types of medical information.
+
+A medical profile can be searched, sorted, rearranged and viewed from different angles. Smart guidance with data collection can help to track development of symptoms over time. Data can be visualized in charts to detect correlations and other patterns between symptoms and treatments.
+
+Important information can be grouped into clinical fact sheets providing concise overviews over medical conditions.
+
+Medical profiles can be shared anonymously. With patients. With doctors. With an ecosystem of people and machines.
+
+<a name="medical-peer-groups"></a>
+
+h2(#medical-support-groups). Medical Support Groups
+
+A very important feature of openMediAid is the automated formation of *networks of similar patients* because patients who are similar are very likely to learn and benefit from each others progress. These networks are called medical support groups. Each patient may be part of multiple of such networks depending on the characteristics of her/his profile.
+
+Medical support groups are partially managed by the algorithms of the platform. They scan incoming profiles for matches and establish tracking relations between similar profiles to grow and strengthen the groups. However, users may themselves view and modify their support groups individually. This not only allows users to build their own support networks but to provide the algorithms with valuable feedback about their preferences.
+
+h3(#change-notifications). Change notifications
+
+The "recommender system":https://github.com/bennidi/openMediAid/wiki/recommender-system watches support groups for incoming data containing useful information and automatically distributes it to all members of the groups. If one member of a group experiences significant improvements with a new treatment all members of her/his support group will be notified. Side-effects of treatments will be broadcasted in the same way and of course this also works for diagnoses.
+
+h3(#micro-surveys). Micro surveys
+
+Users can create small questionaires to collect quantified medical information from their support groups. These micro-surveys contribute to the richness of available statistics and may help patients to identify hidden connections in their medical condition. Surveys will automatically be distributed to a randomized control group.
+
+<a name="medical-data-editor"></a>
+
+h2(#medical-data-editor). Medical Data Editor
+
+The administration of medical profiles is done with a modern and interactive editor that can be used even by non-experts to describe medical facts in "standardized medical language":Medical-Data-Model. Submission and analysis of data must be easy, non-repetitive and fun. Existing data needs to be extensible and open to modification.
+
+The editor aims to provide guidance in the data collection process and helps to map textual and visual descriptions into the medical data model. Based on the data submitted by the user and meta data about existing medical profiles the editor can make suggestions how to make the case description more complete.
+
+<a name="data-analysis"></a>
+
+h2(#data-analysis-and-visualization). Data analysis and visualization
+
+[WIP]
+

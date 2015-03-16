@@ -1,0 +1,64 @@
+"!https://github.com/open-medicine-initiative/openMediAid/wiki/images/oma/logo_220.png(openmediaid)!":Home
+
+* "$":Features
+
+* "How it works":How-it-works
+
+* "Medical Profiles":Medical-Profiles
+
+* "Medical Data Model":Medical-Data-Model
+
+* "Data Privacy":Data-Privacy
+
+* "Project Plan &amp; Status":Home#project-planning
+
+<hr />
+
+*"Mission Statement":Mission-Statement*
+
+* "Better Medical Decisions":Mission-Statement#speed-up-decision-making
+
+* "Patient Empowerment":Mission-Statement#patient-empowerment
+
+* "Promote what helps":Mission-Statement#following-evidence
+
+* "Transparency":Mission-Statement#open-access-medical-information
+
+<hr />
+
+*"$":Challenges*
+
+* "Data collection":Challenges#data-collection
+
+* "Data verification":Challenges#data-verification
+
+* "User Interface":Challenges#ui
+
+<hr />
+
+*"Frequently Asked Questions":FAQ*
+
+* "What about data privacy?":FAQ#data-privacy
+
+* "Can this be done?":FAQ#can-this-be-done
+
+* "Isn't self-diagnosis dangerous?":FAQ#dangers-of-self-diagnosis
+
+<hr />
+
+*"Contribute":Home#contribute*
+
+* "Code":https://github.com/open-medicine-initiative/openmediaid
+
+* "Developer documentation":http://open-medicine-initiative.github.io/openmediaid/
+
+<hr />
+
+*"Contact":Home#contact*
+
+* "Core Team":About-us#core-team
+
+* "Support Team":About-us#support-team
+
+* "Board of advisors":About-us#board-of-advisors
+
